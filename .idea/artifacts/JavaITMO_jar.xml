@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaITMO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaITMO_jar</output-path>
+    <root id="archive" name="JavaITMO.jar">
+      <element id="module-output" name="JavaITMO" />
+    </root>
+  </artifact>
+</component>
